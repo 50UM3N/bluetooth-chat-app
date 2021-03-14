@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Local Storage Address Book</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="your_name">Your name</string>
+    <string name="add_text_content">Enter each and every details to add the address on the Address Book</string>
+    <string name="add_add_button">Add</string>
+</resources>
